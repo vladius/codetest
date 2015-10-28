@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app-module.js"],"sourcesContent":["(function () {\n  'use strict';\n\n  angular\n    .module('bowling', [\n      'ui.router',\n      'home',\n      'directives',\n      'services'\n    ]);\n}());\n"],"file":"app-module.js","sourceRoot":"/source/"}

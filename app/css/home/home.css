@@ -1,0 +1,24 @@
+.clearfix {
+  clear: both; }
+
+.scorecard {
+  width: 800px;
+  border: solid #ccc 1px;
+  border-collapse: collapse; }
+  .scorecard tr {
+    border: solid #ccc 1px; }
+  .scorecard .frame {
+    border: solid #ccc 1px;
+    width: 60px;
+    height: 60px;
+    vertical-align: top;
+    cursor: pointer; }
+    .scorecard .frame .roll {
+      border: solid black 1px;
+      width: 20px;
+      height: 20px;
+      float: right;
+      border-collapse: separate;
+      text-align: center; }
+    .scorecard .frame .score {
+      text-align: center; }

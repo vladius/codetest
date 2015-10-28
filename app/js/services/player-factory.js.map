@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["services/player-factory.js"],"sourcesContent":["(function () {\n  'use strict';\n\n\tangular.module('bowling')\n\n\t\t.factory('Player', function () {\n\t\t\tfunction Object(name) {\n\t\t\t\tthis.name = name;\n\t\t\t}\n\n    return Object;\n\t\t});\n}());\n"],"file":"services/player-factory.js","sourceRoot":"/source/"}

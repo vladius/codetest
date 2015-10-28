@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["services/services-module.js"],"sourcesContent":["(function () {\n  'use strict';\n\n  /* @ngdoc object\n   * @name services\n   * @description\n   *\n   */\n  angular\n    .module('services', [\n      'ui.router'\n    ]);\n}());\n"],"file":"services/services-module.js","sourceRoot":"/source/"}

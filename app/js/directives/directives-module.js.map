@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["directives/directives-module.js"],"sourcesContent":["(function () {\n  'use strict';\n\n  /* @ngdoc object\n   * @name directives\n   * @description\n   *\n   */\n  angular\n    .module('directives', [\n      'ui.router'\n    ]);\n}());\n"],"file":"directives/directives-module.js","sourceRoot":"/source/"}

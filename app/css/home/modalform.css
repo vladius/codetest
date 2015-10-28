@@ -1,0 +1,31 @@
+#mask {
+  background: #111;
+  display: none;
+  opacity: 0.4;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 10; }
+
+.scoreform {
+  display: none;
+  background: #eee;
+  padding: 10px;
+  border: 2px solid #ddd;
+  font-size: 1.2em;
+  position: absolute;
+  z-index: 99999; }
+
+fieldset {
+  border: none; }
+
+form label {
+  display: block;
+  padding-bottom: 7px; }
+
+form input {
+  background: #fff;
+  padding: 6px 6px 4px;
+  width: 200px; }
